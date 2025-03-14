@@ -4,7 +4,7 @@
 hi.
 
 ## Technical Skills
-- **Programming Languages**: Python, C#, Java
+- **Programming Languages**: Python, C#, Swift, Java
 - **Databases**: MySQL, SQL Server, SQLite
 - **DevOps & CI/CD**: Docker, Azure DevOps
 - **APIs & Web Services**: RESTful APIs
