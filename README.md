@@ -30,7 +30,7 @@ A personal configurable homepage built with Go, designed for organizing bookmark
 
 ## How to Reach Me
 - GitHub: [@trevordavies095](https://github.com/trevordavies095)
-- Email: me@trevordavies095.com
+- Email: me (at) trevordavies095.com
 - LinkedIn: https://www.linkedin.com/in/trevordavies095/
 
 ## Contributions & Collaboration
