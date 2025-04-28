@@ -28,11 +28,6 @@ A Java library for interfacing with DMX controllers, providing a reliable way to
 ### [go-dashboard](https://github.com/trevordavies095/go-dashboard)
 A personal configurable homepage built with Go, designed for organizing bookmarks, displaying widgets, and serving as a centralized information hub.
 
-## How to Reach Me
-- GitHub: [@trevordavies095](https://github.com/trevordavies095)
-- Email: me (at) trevordavies095.com
-- LinkedIn: https://www.linkedin.com/in/trevordavies095/
-
 ## Contributions & Collaboration
 I welcome contributions, feedback, and collaboration on any of my projects. If you are interested in working on an open-source project together or have any questions, feel free to open an issue or reach out.
 
